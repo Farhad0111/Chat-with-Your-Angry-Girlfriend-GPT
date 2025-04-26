@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit
+requests
+python-dotenv
+
+# Data handling
+python-dateutil
+pandas
+jsonschema
+
+# Security
+cryptography
+pyOpenSSL
+
+# UI enhancements (optional)
+streamlit-extras
+streamlit-chat
+
+# Development tools
+pytest
+black
+flake8
+
+# Deployment
+gunicorn
